@@ -1,3 +1,9 @@
 [submodule "1-传感器标定/激光雷达imu标定/lidar_align"]
 	path = 1-传感器标定/激光雷达imu标定/lidar_align
 	url = https://github.com/ethz-asl/lidar_align.git
+[submodule "4-位姿定位/GPS_IMU_Kalmen_Filter"]
+	path = 4-位姿定位/GPS_IMU_Kalmen_Filter
+	url = https://github.com/karanchawla/GPS_IMU_Kalman_Filter.git
+[submodule "1-传感器标定/相机标定/camera-calibration"]
+	path = 1-传感器标定/相机标定/camera-calibration
+	url = https://github.com/ljubobratovicrelja/camera-calibration.git
