@@ -14,5 +14,5 @@
 4. 位姿定位
    * [基于扩展卡尔曼滤波的GPS-IMU融合定位方法](https://github.com/zhangjcNJUST/Summary/tree/master/4-%E4%BD%8D%E5%A7%BF%E5%AE%9A%E4%BD%8D)，代码跑通
 5. 决策规划
-   * [D* 算法]()
+   * [D* 算法](https://github.com/zhangjcNJUST/Summary/tree/master/5-%E5%86%B3%E7%AD%96%E8%A7%84%E5%88%92)
 
