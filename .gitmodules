@@ -10,3 +10,9 @@
 [submodule "5-决策规划/dstar-lite"]
 	path = 5-决策规划/dstar-lite
 	url = https://github.com/ArekSredzki/dstar-lite.git
+[submodule "5-决策规划/AStarSearch"]
+	path = 5-决策规划/AStarSearch
+	url = https://github.com/sky068/AStarSearch
+[submodule "5-决策规划/Dstar_lite_effictive"]
+	path = 5-决策规划/Dstar_lite_effictive
+	url = https://github.com/By6666/Dstar_lite_effictive
