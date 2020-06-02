@@ -4,9 +4,6 @@
 [submodule "4-位姿定位/GPS_IMU_Kalmen_Filter"]
 	path = 4-位姿定位/GPS_IMU_Kalmen_Filter
 	url = https://github.com/karanchawla/GPS_IMU_Kalman_Filter.git
-[submodule "1-传感器标定/相机标定/camera-calibration"]
-	path = 1-传感器标定/相机标定/camera-calibration
-	url = https://github.com/ljubobratovicrelja/camera-calibration.git
 [submodule "5-决策规划/dstar-lite"]
 	path = 5-决策规划/dstar-lite
 	url = https://github.com/ArekSredzki/dstar-lite.git
@@ -16,3 +13,18 @@
 [submodule "5-决策规划/Dstar_lite_effictive"]
 	path = 5-决策规划/Dstar_lite_effictive
 	url = https://github.com/By6666/Dstar_lite_effictive
+[submodule "2-视觉感知/lane-detection"]
+	path = 2-视觉感知/lane-detection
+	url = https://github.com/udacity/CarND-Advanced-Lane-Lines.git
+[submodule "1-传感器标定/相机标定/cameracalibration"]
+	path = 1-传感器标定/相机标定/cameracalibration
+	url = https://github.com/vbajpai/cameracalibration.git
+[submodule "1-传感器标定/相机雷达联合标定/lidar_camera_calibration"]
+	path = 1-传感器标定/相机雷达联合标定/lidar_camera_calibration
+	url = https://github.com/ankitdhall/lidar_camera_calibration.git
+[submodule "5-决策规划/Bug_algorithm"]
+	path = 5-决策规划/Bug_algorithm
+	url = https://github.com/mario-serna/bug_algorithms.git
+[submodule "2-视觉感知/车辆检测/vehicle_counting_hog_svm"]
+	path = 2-视觉感知/车辆检测/vehicle_counting_hog_svm
+	url = https://github.com/ahmetozlu/vehicle_counting_hog_svm
