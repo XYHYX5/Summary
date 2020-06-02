@@ -13,7 +13,7 @@
    * [交通标志检测](https://github.com/zhangjcNJUST/Summary/tree/master/2-%E8%A7%86%E8%A7%89%E6%84%9F%E7%9F%A5/%E4%BA%A4%E9%80%9A%E6%A0%87%E5%BF%97%E6%A3%80%E6%B5%8B)
    * [车道线检测](https://github.com/zhangjcNJUST/Summary/tree/master/2-%E8%A7%86%E8%A7%89%E6%84%9F%E7%9F%A5/%E8%BD%A6%E9%81%93%E7%BA%BF%E6%8F%90%E5%8F%96)
    * [行人检测](https://github.com/zhangjcNJUST/Summary/tree/master/2-%E8%A7%86%E8%A7%89%E6%84%9F%E7%9F%A5/%E8%A1%8C%E4%BA%BA%E6%A3%80%E6%B5%8B)
-   * 车辆检测(hog + svm)
+   * [车辆检测(hog + svm)](https://github.com/zhangjcNJUST/Summary/tree/master/2-%E8%A7%86%E8%A7%89%E6%84%9F%E7%9F%A5/%E8%BD%A6%E8%BE%86%E6%A3%80%E6%B5%8B)
    
 3. 雷达感知
 
